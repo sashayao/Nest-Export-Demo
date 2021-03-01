@@ -1,7 +1,8 @@
 
 ## Information
 This is a demo project demonstrating how to import external NestJs modules and services.
-This corresponds with demo NestJs export project
+This corresponds with demo NestJs export project:
+[https://github.com/sashayao/nestjs-export-demo]
 
 
 ## Description
